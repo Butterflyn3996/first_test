@@ -1,2 +1,3 @@
 Just a Git test
 Second tring for test£¡
+Insert a new line
